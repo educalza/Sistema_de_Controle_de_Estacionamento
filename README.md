@@ -83,3 +83,7 @@ Verifique os itens abaixo antes de enviar o link do projeto:
 - [ ] LED vermelho pisca 3 vezes e exibe 'LOTADO' quando bloqueado.
 - [ ] Cada ação gera apenas uma mensagem no Serial Monitor (sem repetição).
 - [ ] Código organizado com `#define` para os pinos e para a capacidade máxima.
+
+
+![Imagem Circuito Completo TinkerCad](img/imagemTinkerCad1.png)
+
