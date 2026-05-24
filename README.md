@@ -3,6 +3,8 @@
 **Formato:** Individual
 **Plataforma:** Wokwi ou Tinkercad
 
+Tinkercad: https://www.tinkercad.com/things/iBRCZRhbhJc-sistema-de-controle-de-estacionamento?sharecode=nTQwpMXnbTBEx1MvnFW4JatFpqtxmZyjXgpRwsXR4_c
+
 ---
 
 ## 📌 Sobre o Projeto
