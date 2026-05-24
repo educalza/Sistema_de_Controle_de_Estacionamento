@@ -6,14 +6,6 @@ Este projeto implementa um sistema de controle automatizado para um estacionamen
 
 ---
 
-## 📸 Demonstração do Projeto
-
-![Imagem do Circuito do Estacionamento](imagemTinkerCad.png)
-
-*Circuito montado e simulado com sucesso.*
-
----
-
 ## 🛠️ Hardware e Pinagem
 
 Abaixo está o mapeamento dos componentes utilizados no projeto e suas respectivas conexões no Arduino:
