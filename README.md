@@ -84,6 +84,6 @@ Verifique os itens abaixo antes de enviar o link do projeto:
 - [ ] Cada ação gera apenas uma mensagem no Serial Monitor (sem repetição).
 - [ ] Código organizado com `#define` para os pinos e para a capacidade máxima.
 
+<img width="1200" height="611" alt="image" src="https://github.com/user-attachments/assets/3f757449-6772-481d-b3ef-e802b2bdde9d" />
 
-![Imagem Circuito Completo TinkerCad](imagemTinkerCad1.png)
 
