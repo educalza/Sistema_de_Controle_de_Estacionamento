@@ -85,5 +85,5 @@ Verifique os itens abaixo antes de enviar o link do projeto:
 - [ ] Código organizado com `#define` para os pinos e para a capacidade máxima.
 
 
-![Imagem Circuito Completo TinkerCad](img/imagemTinkerCad1.png)
+![Imagem Circuito Completo TinkerCad](imagemTinkerCad1.png)
 
