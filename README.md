@@ -1,5 +1,7 @@
 # Sistema mais Avançado e Completo
 
+Link TinkerCad: https://www.tinkercad.com/things/hpZKLSgYKIn-sistema-de-controle-de-estacionamento-avancado?sharecode=jnbgz8GYQ6-8mWOYJPYKTxZp7FH0yffDaxZtQIrKg1o
+
 # 🚗 Sistema de Controle de Estacionamento com Arduino
 
 Este projeto implementa um sistema de controle automatizado para um estacionamento com capacidade para 20 vagas utilizando Arduino. O sistema gerencia a abertura e fechamento de uma cancela (controlada por um servo motor), monitora a disponibilidade de vagas em tempo real via display LCD e envia logs detalhados para o Serial Monitor.
